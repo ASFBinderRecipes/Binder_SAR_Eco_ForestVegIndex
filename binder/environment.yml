@@ -13,3 +13,4 @@ dependencies:
   - scikit-image==0.19.3
   - pip:
       - awscli==1.27.79
+      - pyyaml==5.3.1
